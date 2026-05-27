@@ -345,7 +345,7 @@ h3 {
   grid-template-columns: minmax(180px, 0.32fr) minmax(0, 0.68fr);
   gap: 24px;
   align-items: start;
-  margin-bottom: 18px;
+  margin-top: 24px;
   border: 1px solid rgba(15, 118, 110, 0.18);
   border-radius: var(--radius);
   background: #f1faf6;
