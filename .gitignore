@@ -1,0 +1,32 @@
+# Local/system files
+.DS_Store
+*/.DS_Store
+
+# Project notes and agent handoff files
+*.md
+
+# Ignore unused image assets by default
+images/*
+images/webp/*
+
+# Keep image assets used by the site
+!images/
+!images/webp/
+!images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg
+!images/PunchC_OG_EN.png
+!images/icon.png
+!images/webp/EN1T1-645.webp
+!images/webp/EN2T1-645.webp
+!images/webp/EN3-645.webp
+!images/webp/EN4-645.webp
+!images/webp/EN5-645.webp
+!images/webp/icon-128.webp
+!images/webp/iconrund-192.webp
+
+# Keep root icons and favicon assets used by the site
+!apple-touch-icon.png
+!android-chrome-192x192.png
+!android-chrome-512x512.png
+!favicon-16x16.png
+!favicon-32x32.png
+!favicon.ico

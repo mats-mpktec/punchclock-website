@@ -1,0 +1,49 @@
+# Punch Clock
+
+Punch Clock is a simple private punch clock app and work hours tracker for iPhone.
+
+Website: https://punchclocktimer.com/
+App Store: https://apps.apple.com/app/apple-store/id6761683006?pt=127986200&ct=landingpage&mt=8
+Privacy policy: https://mpktec.se/privacy/punchclock-en/
+Developer: MPK Tec AB
+Developer website: https://mpktec.se/
+Support: support@mpktec.se
+
+## Summary
+
+Punch Clock helps people track work hours on iPhone without a heavy HR, payroll, or scheduling system. Users can clock in, clock out, track breaks, review worked time, edit recorded shifts, and export PDF timesheet reports.
+
+The app is intended for hourly workers, consultants, freelancers, self-employed people, small business owners, people with flexible schedules, and anyone who wants a private record of their workday.
+
+## Key Features
+
+- Clock in and clock out on iPhone.
+- Track work breaks.
+- See a live timer for active shifts.
+- View worked time today and this week.
+- Review shift history.
+- Edit start time, end time, breaks, and notes.
+- Add, remove, or adjust breaks.
+- Use automatic default break deduction for shifts that overlap a configured break interval.
+- Set long-shift reminders.
+- Export PDF timesheet reports.
+- Choose report periods such as today, this week, previous week, this month, previous month, last 30 days, or a custom date range.
+- Choose summary or detailed reports.
+- Show or hide breaks, notes, and irrelevant days in reports.
+- Store work log data locally on the device.
+- Use the app without creating an account.
+- Track time fully offline.
+
+## Privacy
+
+Punch Clock has no account system. Work shifts, breaks, notes, and edits are stored locally on the user's device. Information leaves the device only when the user chooses to export a report or send feedback by email.
+
+The app has no tracking according to its privacy manifest.
+
+## Pricing
+
+Punch Clock includes a 7-day free trial. Continued use is unlocked with Punch Clock PRO as a one-time purchase for US$4.99. There is no subscription.
+
+## Important Positioning
+
+Punch Clock is a personal time tracking app and private work time log. It is not an HR system, payroll service, scheduling platform, legal advice, or a compliance guarantee. Users and employers are responsible for checking applicable rules.
